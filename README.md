@@ -30,8 +30,8 @@
 
 ## Проекты
 
-### JobFlow
-<sub>PostgreSQL-backed job processing platform: worker, retry/backoff, dead-letter workflow, idempotency, `FOR UPDATE SKIP LOCKED`, Prometheus metrics.</sub>
+### [JobFlow](https://github.com/kry4onok/JobFlow)
+<sub>Production-style backend platform for durable background job processing. Built with Java 21, Spring Boot, PostgreSQL, Flyway, Docker Compose, Actuator, Prometheus, JUnit 5 and Testcontainers. Implements transactional job polling with `FOR UPDATE SKIP LOCKED`, idempotent job submission, priority queueing, retry/backoff, dead-letter workflow, worker lock recovery and REST API documentation through OpenAPI.</sub>
 
 ### Car Dealership
 <sub>Backend автосалона: каталог, заказы, test-drive workflow, роли, PostgreSQL, Keycloak, outbox pattern, Docker, integration tests.</sub>
