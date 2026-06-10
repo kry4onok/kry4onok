@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="120" alt="Hello"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="120" alt="Java"/>
 </p>
 
 <p align="center"><b>Java Backend Developer | Spring Boot | PostgreSQL | Distributed Systems</b></p>
@@ -41,4 +41,5 @@
 ## Контакты
 
 [![GitHub](https://img.shields.io/badge/GitHub-kry4onok-181717?style=flat&logo=github&logoColor=white)](https://github.com/kry4onok)
+[![Telegram](https://img.shields.io/badge/Telegram-kry4onok-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/kry4onok)
 [![Email](https://img.shields.io/badge/Email-contact-blue?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
