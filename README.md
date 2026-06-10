@@ -30,7 +30,7 @@
 
 ## Проекты
 
-### [JobFlow](https://github.com/kry4onok/JobFlow)
+### JobFlow
 <sub>Production-style backend platform for durable background job processing. Built with Java 21, Spring Boot, PostgreSQL, Flyway, Docker Compose, Actuator, Prometheus, JUnit 5 and Testcontainers. Implements transactional job polling with `FOR UPDATE SKIP LOCKED`, idempotent job submission, priority queueing, retry/backoff, dead-letter workflow, worker lock recovery and REST API documentation through OpenAPI.</sub>
 
 ### Car Dealership
