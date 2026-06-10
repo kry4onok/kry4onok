@@ -1,16 +1,44 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="120" alt="Hello"/>
+</p>
 
-<!--
-**kry4onok/kry4onok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><b>Java Backend Developer | Spring Boot | PostgreSQL | Distributed Systems</b></p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Обо мне
+
+- Пишу backend на Java и Spring Boot
+- Интересуюсь надежными backend-системами, очередями, транзакциями и production-like архитектурой
+- Делаю pet-проекты, которые похожи на реальные сервисы, а не просто CRUD
+
+---
+
+## Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="28"/>
+</p>
+
+---
+
+## Проекты
+
+### JobFlow
+<sub>PostgreSQL-backed job processing platform: worker, retry/backoff, dead-letter workflow, idempotency, `FOR UPDATE SKIP LOCKED`, Prometheus metrics.</sub>
+
+### Car Dealership
+<sub>Backend автосалона: каталог, заказы, test-drive workflow, роли, PostgreSQL, Keycloak, outbox pattern, Docker, integration tests.</sub>
+
+---
+
+## Контакты
+
+[![GitHub](https://img.shields.io/badge/GitHub-kry4onok-181717?style=flat&logo=github&logoColor=white)](https://github.com/kry4onok)
+[![Email](https://img.shields.io/badge/Email-contact-blue?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
