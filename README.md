@@ -1,6 +1,6 @@
 ## C# / .NET Backend Developer · ITMO University
 
-Email [kry4onok@gmail.com](mailto:kry4onok@gmail.com) 
+Email [kry4onok@gmail.com](mailto:kry4onok@gmail.com)\
 Telegram [@kry4onok](https://t.me/kry4onok)
 
 ---
