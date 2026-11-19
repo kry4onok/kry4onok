@@ -1,6 +1,6 @@
 ## C# / .NET Backend Developer · ITMO University
 
-Joining **Ozon Tech** · Telegram [@kry4onok](https://t.me/kry4onok)
+Telegram [@kry4onok](https://t.me/kry4onok)
 
 ---
 
