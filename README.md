@@ -1,64 +1,26 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="105" alt="C#"/>
-</p>
+## C# / .NET Backend Developer · ITMO University
 
-<p align="center"><b>Backend Developer | C# / .NET | PostgreSQL | Distributed Systems</b></p>
+Joining **Ozon Tech** · Telegram [@kry4onok](https://t.me/kry4onok)
 
 ---
 
-## Обо мне
+## Tech Stack
 
-- Изучаю C# и .NET
-- Интересуюсь надёжными распределёнными системами, очередями, транзакциями и production-like архитектурой
-- Создаю pet-проекты, похожие на реальные сервисы, а не только на учебные CRUD-приложения
-- Учусь на третьем курсе Университета ИТМО по направлению «Программная инженерия»
-
----
-
-## Stack
-
-### Languages and frameworks
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" height="28" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="28" alt=".NET"/>
-</p>
-
-### Data and infrastructure
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="28" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" height="28" alt="Apache Kafka"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="28" alt="Redis"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="28" alt="GitHub Actions"/>
-</p>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-007C89?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-CB3837?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## Проекты
+## Projects
 
-### JobFlow
+- **[ConversionReportSystem](https://github.com/kry4onok/ConversionReportSystem)** · A service that batches product conversion report requests from Kafka and serves results over gRPC.  
+  _Stack_ · .NET 10, ASP.NET Core, gRPC, Kafka, PostgreSQL, Redis, Docker.
 
-<sub>Production-style backend platform for durable background job processing. Built with PostgreSQL, Flyway, Docker Compose, Prometheus and Testcontainers. Implements transactional job polling with `FOR UPDATE SKIP LOCKED`, idempotent job submission, priority queueing, retry/backoff, dead-letter workflow, worker lock recovery and REST API documentation through OpenAPI.</sub>
-
-### Car Dealership
-
-<sub>Backend автосалона: каталог, заказы, test-drive workflow, роли, PostgreSQL, Keycloak, outbox pattern, Docker и integration tests.</sub>
-
----
-
-## Сейчас изучаю
-
-- Разработку backend-сервисов на C# и .NET
-- Асинхронное программирование и устройство платформы .NET
-- Unit- и integration-тестирование .NET-приложений
-- Архитектурные подходы для масштабируемых и отказоустойчивых сервисов
-
----
-
-## Контакты
-
-[![GitHub](https://img.shields.io/badge/GitHub-kry4onok-181717?style=flat&logo=github&logoColor=white)](https://github.com/kry4onok)
-[![Telegram](https://img.shields.io/badge/Telegram-kry4onok-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/kry4onok)
-[![Email](https://img.shields.io/badge/Email-contact-blue?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+- **[ITMO-OOP](https://github.com/kry4onok/ITMO-OOP)** · Five C# coursework projects, including a banking API for accounts, balance operations, and transaction history.  
+  _Stack_ · .NET 9, ASP.NET Core, xUnit.
